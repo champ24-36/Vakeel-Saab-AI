@@ -1,4 +1,4 @@
-# Hindu Marriage Act RAG System - VS Code Setup
+# RAG System - VS Code 
 
 A specialized Retrieval-Augmented Generation (RAG) system for querying the Hindu Marriage Act using LangChain, ChromaDB, and Google's Gemini AI. Optimized for VS Code development environment.
 
